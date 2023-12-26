@@ -37,7 +37,6 @@ const CreateNewAdsPage = () => {
       newErrors = { ...errors };
     }
     for (let key in newErrors) {
-      console.log(key, errors[key], "key");
       if (errors[key] === true) return false;
     }
     return true;
