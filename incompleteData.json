@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "clicks": 4236,
+    "cost": 1456,
+    "conversions": 66,
+    "revenue": 85321
+  },
+  {
+    "id": 2,
+    "clicks": 2366,
+    "cost": 2356,
+    "conversions": 5,
+    "revenue": 33698
+  },
+  {
+    "id": 3,
+    "clicks": 1222,
+    "cost": 7568,
+    "conversions": 23,
+    "revenue": 5697
+  },
+  {
+    "id": 4,
+    "clicks": 6963,
+    "cost": 5031,
+    "conversions": 12,
+    "revenue": 1265
+  },
+  {
+    "id": 5,
+    "clicks": 99,
+    "cost": 22896,
+    "conversions": 3,
+    "revenue": 8977
+  },
+  {
+    "id": 6,
+    "clicks": 8899,
+    "cost": 12589,
+    "conversions": 22,
+    "revenue": 5623
+  },
+  {
+    "id": 7,
+    "clicks": 23,
+    "cost": 6358,
+    "conversions": 89,
+    "revenue": 5681
+  },
+  {
+    "id": 8,
+    "clicks": 36,
+    "cost": 8966,
+    "conversions": 20,
+    "revenue": 89955
+  },
+  {
+    "id": 9,
+    "clicks": 1569,
+    "cost": 13699,
+    "conversions": 6,
+    "revenue": 2369
+  },
+  {
+    "id": 10,
+    "clicks": 600,
+    "cost": 3968,
+    "conversions": 10,
+    "revenue": 8956
+  }
+]

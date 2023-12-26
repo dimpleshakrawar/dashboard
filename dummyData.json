@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "campaigns": "Cosmetics",
+    "clicks": 712,
+    "cost": 4233,
+    "conversions": 8,
+    "revenue": 3201
+  },
+  {
+    "id": 2,
+    "campaigns": "Serums",
+    "clicks": 1256,
+    "cost": 20563,
+    "conversions": 51,
+    "revenue": 8654
+  },
+  {
+    "id": 3,
+    "campaigns": "Facewash",
+    "clicks": 200,
+    "cost": 1011,
+    "conversions": 2,
+    "revenue": 3648
+  },
+  {
+    "id": 4,
+    "campaigns": "Shampoos",
+    "clicks": 123,
+    "cost": 16325,
+    "conversions": 56,
+    "revenue": 8975
+  },
+  {
+    "id": 5,
+    "campaigns": "conditioners",
+    "clicks": 569,
+    "cost": 7569,
+    "conversions": 100,
+    "revenue": 1023
+  }
+]
